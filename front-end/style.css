@@ -1,0 +1,89 @@
+@font-face {
+    font-family: 'elegante';
+    src: url('Elegante Classica.ttf') format('truetype');
+  }
+
+.titulo{
+    font-family: 'elegante';
+    font-size: 50px;
+}
+html, body{
+    overflow: hidden;
+    background-color: darkcyan;
+    overflow-y: scroll;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body button{
+    height: 30px;
+    width: 330px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+    background-color: #16495c;
+}
+body {
+    background-color: #ebeeea;
+}
+
+body h1,h2{
+    margin-left: auto;
+    margin-right: auto;
+}
+.image {
+    margin-left: auto;
+    margin-right: auto;
+}
+.container{
+    display: grid;
+    color: black;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    justify-content: center;
+}
+
+label{
+    margin-bottom: 10px;
+}
+
+input{
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+button{
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+table{
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #16495c;
+}
+
+.form1{
+    display: grid;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+}
+.form1 h2{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.info{
+    display: grid;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+}
+
+.info input{
+    margin-left: auto;
+    margin-right: auto;
+}
